@@ -1,0 +1,2 @@
+需提前安装openai，python-dotenv以及jieba库；
+修改knowledge库和prompt提示词可实现其他领域的问答功能。
