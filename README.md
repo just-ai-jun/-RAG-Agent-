@@ -1,2 +1,3 @@
 需提前安装openai，python-dotenv以及jieba库；
+需准备API密钥以及模型端点；
 修改knowledge库和prompt提示词可实现其他领域的问答功能。
